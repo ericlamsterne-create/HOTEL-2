@@ -1,0 +1,6 @@
+{
+  "name": "BistroGuard AI 全日餐厅智能视觉与后厨防线",
+  "description": "面向高星级酒店与高级餐厅的独立 AI 视觉食安与绿色运营平台，提供取餐档口双目防线、后台银器误丢拦截与3桶精准分流、后厨备餐削峰反哺及服务员移动PDA作业闭环。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
